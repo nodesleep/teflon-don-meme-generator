@@ -6,5 +6,5 @@ I got bored and needed to practice my Golang.
 
 All you need to know is `go run .` and open your browser to localhost:8080.
 
--
+---
 Images are generated and written to `/static/output`.
